@@ -1,0 +1,102 @@
+Clearly Team Project Protection License (CTPPL)
+
+Version 1.1(1001) - November 23, 2025
+
+Copyright (c) 2025 Clearly Team and its contributors
+
+## Preamble
+
+The Clearly Team Project Protection License (CTPPL) is designed to protect the intellectual property and development efforts of Clearly Team while allowing for controlled distribution and use of licensed works. This license balances openness with protection of the team's core interests and ensures that only authorized members can make fundamental changes to the codebase.
+
+## Terms and Conditions for Use, Modification, and Distribution
+
+### 1. Definitions
+- "This License" refers to the Clearly Team Project Protection License version 1.1(1001)
+- "The Work" refers to the software, documentation, and associated materials covered by this license
+- "You" refers to the licensee, whether individual or entity
+- "Clearly Team" refers to the official members and authorized contributors of the Clearly Team organization
+- "Contributor" refers to any verified member of Clearly Team who contributes to licensed works
+- "Core Code" refers to the fundamental structure and essential algorithms of the Work
+- "Derivative Work" refers to any modification, extension, or adaptation of the original Work
+
+### 2. License Grant
+Clearly Team grants you a limited, worldwide, non-exclusive license to use the Work under the conditions specified in this license. This grant is conditional upon compliance with all terms and restrictions herein.
+
+### 3. Rights Reserved to Clearly Team
+- **Exclusive Copyright**: Only members of Clearly Team hold copyright to the original Work and have rights to make fundamental changes
+- **Modification Rights**: Only Clearly Team members may modify Core Code and create new versions of the Work
+- **Distribution Control**: Only Clearly Team members may distribute original versions of the Work
+- **Attribution Requirements**: All distributions must acknowledge Clearly Team as the original source
+
+### 4. Permitted Uses
+You may:
+- Use the Work for personal, educational, or commercial purposes
+- View and analyze the source code for learning purposes
+- Run the Work on your systems
+- Create Derivative Works for personal use only (not for distribution)
+
+### 5. Prohibited Uses
+You may NOT:
+- Redistribute the original Work without explicit permission from Clearly Team
+- Modify Core Code and redistribute such modifications
+- Remove or alter copyright notices and attribution
+- Use the Work in ways that compete directly with Clearly Team projects
+- Reverse engineer or attempt to extract proprietary algorithms
+- Create commercial products that directly replicate the Work's core functionality
+
+### 6. Derivative Works and Contributions
+- Derivative Works may only be shared within Clearly Team
+- External contributions must be submitted through official channels for review
+- Clearly Team reserves the right to incorporate external contributions under this license
+- Any contributions become property of Clearly Team upon acceptance
+
+### 7. Distribution Requirements
+When distributing authorized copies:
+- Include complete license text
+- Maintain all copyright notices
+- Include attribution to "Clearly Team and its contributors"
+- Clearly indicate any modifications made
+- Provide source code access for any modifications
+
+### 8. Membership and Authorization
+- Only verified members of Clearly Team have modification and core distribution rights
+- Authorization must be explicitly granted by Clearly Team leadership
+- Authorization may be revoked for license violations
+- New members must be officially recognized to gain expanded rights
+
+### 9. Restrictions
+- No patent litigation against Clearly Team or its members
+- No use of Clearly Team's trademarks without explicit permission
+- No circumvention of license protection mechanisms
+- Compliance with applicable export laws and regulations
+
+### 10. Warranty Disclaimer
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR ABSENCE OF ERRORS. CLEARLY TEAM DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED.
+
+### 11. Limitation of Liability
+IN NO EVENT SHALL CLEARLY TEAM OR ITS CONTRIBUTORS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, LOSS OF USE, DATA, OR PROFITS, OR BUSINESS INTERRUPTION, ARISING OUT OF OR IN CONNECTION WITH THE WORK OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+### 12. License Evolution
+Clearly Team reserves the right to update this license. New versions will be numbered sequentially (e.g., 1.1(1002), 1.1(1003)). Users of the Work must comply with the version under which they received the Work or any newer version explicitly applied to the Work.
+
+### 13. Governing Law
+This license shall be governed by international copyright law principles and applicable jurisdiction law where Clearly Team operates.
+
+### 14. Severability
+If any provision of this license is held invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+### 15. Termination
+This license terminates automatically if you fail to comply with its terms. However, licenses granted by you to others based on this license remain in effect if those parties remain in full compliance.
+
+### 16. Acceptance
+By using, modifying, or distributing the Work, you indicate your acceptance of this license and agree to be bound by its terms.
+
+### 17. Contact Information
+For questions about this license or to request permissions beyond those granted herein, contact Clearly Team through official channels.
+
+---
+
+**License Version**: 1.1(1001)  
+**Effective Date**: November 23, 2025  
+**Issued By**: Clearly Team  
+**Authorized By**: KilixKilik, pEREvsssss (Team Representative)
